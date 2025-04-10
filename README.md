@@ -11,7 +11,7 @@ Then you can create a new virtual environment as follows.
 Now the venv is ready to be used
 
 ## Datasets
-Datasets are available at this link, it is a ZIP protected with password
+Datasets are available at this <a href="https://drive.google.com/file/d/1vOU5rYcGPEWhNFp-S5EIWd-KzGG04Y2V/view?usp=sharing">link<\a>, it is a ZIP protected with password
 Password is required as datasets are not owned by us: we cannot redistribute
 Make sure to unzip datasets in the same folder as the mani.py file, or update the CSV_FOLDER variable in the script to match where datasets are.
 
